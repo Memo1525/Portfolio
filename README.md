@@ -17,23 +17,17 @@ I'm a Jr Developer 💻  and Gamer 🎮 !
 
 - My old projects
 - Backend with Django 
-- Creating Api with Rest
+- Improving my skills on AWS
 - Data structures (Python)
-- Docker and Aws 
+- Docker and Kubernetes 
+- CICD Gitlab, Ansible
 
 ## 🌱 I'm currently learning
 
 - AWS
 - Automatization
 - CI CD 
-- Java Script
-
-## 💼 Technical Skills
-
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
+- Terraform 
 
 
 </br>
@@ -45,8 +39,5 @@ I'm a Jr Developer 💻  and Gamer 🎮 !
 
 
 </br>
-
-
-
 
 ![banner](https://user-images.githubusercontent.com/56310095/156698159-46ed5824-1612-48d2-850d-277896a3fedf.png)
